@@ -32,7 +32,7 @@ git clone  <https://github.com/rosemutai/Python-API-Analysis>
 
 - run ```cd Python-API-Analysis-main``` to enter the project folder
 - run ```pip install -r requirements.txt``` to install all dependencies
-- Click `Run All` to run the `analysis.ipynb` file
+- Click `Run All` or execute each cell step by step to run the `analysis.ipynb` file
 
 ## Analysis
 
@@ -57,7 +57,7 @@ For marketing, this shows that the customers are dispersed geographically hence 
 
 ### Visualise the customer distribution
 
-The email domain chart is more useful because repeated domains can reveal common email providers among customers compared to cities.
+The email domain chart is more useful because more customers using a given domains shows  the popular providers among customers compared to cities, for this dataset `biz` domain is more popular with three customers.
 
 ## Assumptions
 
